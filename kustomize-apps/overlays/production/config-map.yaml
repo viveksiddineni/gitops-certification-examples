@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: my-configuration
 data:
-  mysqlDB: "prod-mysql.acme.inc:3306"
+  mysqlDB: "proddddd-mysql.acme.inc:3306"
  
